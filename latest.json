@@ -1,14 +1,14 @@
 {
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMHVJbWZjczIxVlJ1Mm5lZUpINDFHOFlObENkdFRaZEhzakhuaU9UdHdHZ0lhL3VYcnFUMkN6S2RGNk11ZC9nemtzL1RocUo2NmFxZzBmQUJWR3RqN1NaMDZvcHl5ckFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODM0NTkwCWZpbGU6Rmlib25hY2NpIENhbnZhc18wLjEuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjAKVHNCV3EwZU1MRlREYXNsL0gwTUJIQW9YZzJDNnBObVZaNnJORzF4dGZqNkFnNWRrMk9xakNCaDE1d2dTRndwaEhEaFVJV1BKTWpiSGNoeXNOSFVYQ1E9PQo=",
-      "url": "https://github.com/dayz4/Fibonacci-Canvas-Releases/releases/download/v0.1.0/Fibonacci Canvas_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMHVJbWZjczIxVmI0ZlNuWlhkMTZjVEsvT3pLRnVRQzBqMmJNSlVkNnpXZVF4OXpxY1oxMjJkbVk0S0wvRkdzYWdYNkVzQU9xWndGczBtZ0k1aFR2UlJ1MEJ3U0k5TkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODM2OTExCWZpbGU6Rmlib25hY2NpIENhbnZhc18wLjEuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjEKMFF1SlFUVlk0L3YvT3pxcW9JdmltYkZkK01SanRzMlJsSlh0a2dJLzRFK3hiemk3alU4STg1UTFkaktvN1lTTEpHaWtmYTNVVXBIZ2RHMzZHT3hURGc9PQo=",
+      "url": "https://github.com/dayz4/Fibonacci-Canvas-Releases/releases/download/v0.1.1/Fibonacci Canvas_0.1.1_x64-setup.exe"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMHVJbWZjczIxVlZ6RjRROFRuMmJMcnFDVWFoam5nRyt4WXVrZXlPcUZ0QzQ1OFBSdUt6YzNuNkNlYTluc3pUNFJ3QkVCUlJsajExWE9JdjE4SlFYM2VyM1ZMMm5ZMXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODM0OTc4CWZpbGU6Rmlib25hY2NpIENhbnZhc18wLjEuMF9hcm02NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMApJMjl0ODRaUlN1SkRKaGYrdGFPSThaRjhiNVdZTDFTdEhxUS8xSjZ1dCtLN1QzODd5WSs4d2hqNEFXdWVHKzBxRVY4L3lCRlR4MCs4SHVOMVM5M1VBQT09Cg==",
-      "url": "https://github.com/dayz4/Fibonacci-Canvas-Releases/releases/download/v0.1.0/Fibonacci Canvas_0.1.0_arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMHVJbWZjczIxVlhKM2NkQ205WDlWNkxMaUxFWkszR1g4Y25kSTNCWU5Db3gyWVhkQkdYZklQTVNSL3EzN0dnWktqdHo4U3p4azVDRHdSbEtaUzliYWJ6Q1VLalByTWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODM3MDY5CWZpbGU6Rmlib25hY2NpIENhbnZhc18wLjEuMV9hcm02NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMQpNdS9zNlhPUXV6aTNBQml3S2U2MzQvWm5yQ0JFT1J1dXMrUzYxRE82V1g5ZWVCN3ZGRXFvRnZsZGxKdk95TDhwWnZNbmIrcExSeXNDMEhxdDZsSVlDZz09Cg==",
+      "url": "https://github.com/dayz4/Fibonacci-Canvas-Releases/releases/download/v0.1.1/Fibonacci Canvas_0.1.1_arm64-setup.exe"
     }
   },
-  "version": "0.1.0",
-  "pub_date": "2026-10-01T06:09:43.054589Z"
+  "version": "0.1.1",
+  "pub_date": "2026-10-01T06:44:33.999349Z"
 }
